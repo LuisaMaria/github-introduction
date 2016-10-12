@@ -8,3 +8,5 @@ A list of users from the IA planets thematic line
 * [Sérgio Sousa](https://github.com/sousasag)
 * [Maria Tsantaki](https://github.com/MariaTsantaki)
 * [João Camacho](https://github.com/jdavidrcamacho)
+* [Susana Barros](https://github.com/susana98)
+* [Luisa Maria Serrano](https://github.com/LuisaMaria)
